@@ -1,0 +1,23 @@
+site_name: PavDedutor
+site_description: "Biblioteca Python para cálculo de valores deduzíveis"
+site_author: "Wellington Moura"
+repo_url: "https://github.com/seu-usuario/pavdedutor"
+repo_name: "pavdedutor"
+
+theme:
+  name: material
+  features:
+    - navigation.expand
+    - navigation.sections
+    - toc.integrate
+    - search.suggest
+    - search.highlight
+    - content.code.annotate
+    - user_color_mode_toggle
+
+nav:
+  - Início: inicio.md
+  - Instalação: instalacao.md
+  - Guia de usuário: guia.md
+  - Referência API: api.md
+  - Sobre: sobre.md
