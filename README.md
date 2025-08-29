@@ -7,7 +7,7 @@ A `pavdedutor` é biblioteca python voltada para otimização do cálculo de val
 ### Por que?
 Entendendo a necessidade de automação dos processos manuais presentes na norma [DNIT 062/2004 PRO](https://www.gov.br/dnit/pt-br/assuntos/planejamento-e-pesquisa/ipr/coletanea-de-normas/coletanea-de-normas/procedimento-pro/dnit_062_2004_pro.pdf), a `pavdedutor` propõe a substituição da consulta manual aos *ábacos de valores de deduzíveis* pelo uso de funções rápidas e simples, a fim de reduzir drasticamente o tempo de análise de patologias. Assim, a `pavdedutor` encontra utilidade não só em trabalhos de engenharia ou geotecnologia, mas também nos campos de visão computacional e inteligência artificial, agindo como um molde normativo para as catalogações e, assim, oferecendo maior aderência aos critérios técnicos vigentes, garantindo que as análises automatizadas mantenham o rigor exigido em norma sem perder velocidade nas coletas.
 
-![Exemplificação de fluxo](https://imgur.com/uPNOufj.png)
+![Exemplificação de fluxo](docs/figuras/exemplo.png)
 
 A biblioteca possibilita:
 - Cálculo direto dos valores deduzíveis por tipo de patologia e tipo de pavimento;
