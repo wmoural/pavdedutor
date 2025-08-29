@@ -1,6 +1,6 @@
 # 🛣️ PavDedutor 
 
-![](docs/figuras/pavdedutor.png)
+<img src="docs/figuras/pavdedutor.png" alt="pavdedutor" width="300">
 
 ## Descrição
 ### O que é?
