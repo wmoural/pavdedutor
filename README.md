@@ -1,5 +1,7 @@
 # 🛣️ PavDedutor 
 
+![](docs/figuras/pavdedutor.png)
+
 ## Descrição
 ### O que é?
 A `pavdedutor` é biblioteca python voltada para otimização do cálculo de valores deduzíveis de patologias de pavimentos **rígidos** com base nas disposições normativas da [DNIT 062/2004 PRO](https://www.gov.br/dnit/pt-br/assuntos/planejamento-e-pesquisa/ipr/coletanea-de-normas/coletanea-de-normas/procedimento-pro/dnit_062_2004_pro.pdf).
