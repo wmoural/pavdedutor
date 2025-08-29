@@ -46,7 +46,7 @@ Função para calcular o valor dedutível corrigido.
 - `dataframe` (`pd.DataFrame`): Tabela com os resultados.  
 - `coluna_patologia` (`str`): Nome da coluna que identifica a patologia.  
 - `coluna_valor_deduzivel` (`str`): Nome da coluna com os valores dedutíveis.  
-- `tipo` (`str`): Tipo de pavimento (`"rígido"` ou `"flexível"`).  
+- `tipo` (`str`): Tipo de pavimento (`"rigido"` ou `"flexível"`).  
 
 **Retorno**
 - `float`: Valor dedutível corrigido total.
