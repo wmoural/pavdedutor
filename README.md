@@ -1,6 +1,8 @@
 # 🛣️ PavDedutor 
 
-<img src="docs/figuras/pavdedutor.png" alt="pavdedutor" width="300">
+<div style="text-align: center;">
+    <img src="docs/figuras/pavdedutor.png" alt="pavdedutor" width="300">
+</div>
 
 ## Descrição
 ### O que é?
